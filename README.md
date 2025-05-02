@@ -8,7 +8,7 @@ This project implements a Sentiment Analysis system that classifies text as posi
   Classification: Logistic Regression model to predict sentiment.
 
 ## Data:
-  For the purpose of this project, a CSV file (e.g., sentiment_data.csv) containing text data and labels (e.g., positive, negative, neutral) is required.
+  For the purpose of this project, a CSV file (e.g., review.csv) containing text data and labels (e.g., 0 and 1) is required.
 
 ## Sample CSV format:
 
